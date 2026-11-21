@@ -1,0 +1,6 @@
+{
+  "appId": "com.aegeae52.waqti",
+  "appName": "وقتي",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
